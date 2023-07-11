@@ -1,0 +1,3 @@
+read yy
+echo "#!/bin/bash" > ${yy}
+./add
