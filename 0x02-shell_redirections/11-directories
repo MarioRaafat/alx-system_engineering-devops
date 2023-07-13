@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l |cut . |wc -l
+ls -l |cut -n "." |wc -l
