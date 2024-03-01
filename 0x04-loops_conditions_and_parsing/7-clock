@@ -11,5 +11,5 @@ while [ $h -le 12 ]; do
 		min=$((min+1))
 	done
 	min=$((1))
-	h=$((i+1))
+	h=$((h+1))
 done
